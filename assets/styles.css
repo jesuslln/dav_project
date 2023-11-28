@@ -1,0 +1,49 @@
+/* styles.css */
+#tabs {
+    height: 30px;
+    vertical-align: top;
+    margin-right: 30px;
+}
+
+#tabs-content {
+    margin: 10px;
+}
+
+/* styles.css */
+/* 
+#titulo {
+    text-align: center;
+    color: lightsteelblue;
+    font-family: Arial;
+    background-color: darkslategray;
+    text-decoration: underline;
+}
+
+#primer_subtitulo {
+    text-align: left;
+    color: lightsteelblue;
+    background-color: darkslategray;
+    width: 250px;
+    display: inline-block;
+}
+
+#componentes_css {
+    font-family: Arial;
+    display: inline-block;
+    width: 600px;
+    margin-left: 100px;
+}
+
+#primera_figura {
+    display: block;
+    margin-left: 25%;
+    margin-right: 30%;
+}
+
+#segunda_figura {
+    display: inline-block;
+}
+
+#tercera_figura {
+    display: inline-block;
+} */
