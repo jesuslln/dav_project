@@ -1,0 +1,3410 @@
+<!DOCTYPE html>
+<html lang="es-ES" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <meta content="IHHW7cqYhWuOI2jiKTqpzUWL-6oNs71paDJEYcHw1Zg" name="google-site-verification">
+   <strong>
+   </strong>
+   <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+    <link href="https://dramatico.mcu.es/espectaculos/" hreflang="es" rel="alternate"/>
+    <link href="https://dramatico.mcu.es/en/espectaculos/" hreflang="en" rel="alternate"/>
+    <link href="https://dramatico.mcu.es/espectaculos/" hreflang="x-default" rel="alternate"/>
+    <!-- This site is optimized with the Yoast SEO plugin v19.8 - https://yoast.com/wordpress/plugins/seo/ -->
+    <title>
+     Espectáculos - Centro Dramático Nacional
+    </title>
+    <link href="https://dramatico.mcu.es/espectaculos/" rel="canonical"/>
+    <meta content="es_ES" property="og:locale"/>
+    <meta content="article" property="og:type"/>
+    <meta content="Espectáculos - Centro Dramático Nacional" property="og:title"/>
+    <meta content="https://dramatico.mcu.es/espectaculos/" property="og:url"/>
+    <meta content="Centro Dramático Nacional" property="og:site_name"/>
+    <meta content="2023-07-04T11:58:15+00:00" property="article:modified_time"/>
+    <meta content="https://dramatico.mcu.es/wp-content/uploads/2022/06/foto-dragon-3.jpg?_t=1688471895" property="og:image"/>
+    <meta content="1920" property="og:image:width"/>
+    <meta content="1080" property="og:image:height"/>
+    <meta content="image/jpeg" property="og:image:type"/>
+    <meta content="summary_large_image" name="twitter:card"/>
+    <script class="yoast-schema-graph" type="application/ld+json">
+     {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://dramatico.mcu.es/espectaculos/","url":"https://dramatico.mcu.es/espectaculos/","name":"Espectáculos - Centro Dramático Nacional","isPartOf":{"@id":"https://dramatico.mcu.es/#website"},"primaryImageOfPage":{"@id":"https://dramatico.mcu.es/espectaculos/#primaryimage"},"image":{"@id":"https://dramatico.mcu.es/espectaculos/#primaryimage"},"thumbnailUrl":"https://dramatico.mcu.es/wp-content/uploads/2022/06/foto-dragon-3.jpg","datePublished":"2023-07-04T11:56:37+00:00","dateModified":"2023-07-04T11:58:15+00:00","breadcrumb":{"@id":"https://dramatico.mcu.es/espectaculos/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://dramatico.mcu.es/espectaculos/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://dramatico.mcu.es/espectaculos/#primaryimage","url":"https://dramatico.mcu.es/wp-content/uploads/2022/06/foto-dragon-3.jpg","contentUrl":"https://dramatico.mcu.es/wp-content/uploads/2022/06/foto-dragon-3.jpg","width":1920,"height":1080},{"@type":"BreadcrumbList","@id":"https://dramatico.mcu.es/espectaculos/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://dramatico.mcu.es/"},{"@type":"ListItem","position":2,"name":"Espectáculos"}]},{"@type":"WebSite","@id":"https://dramatico.mcu.es/#website","url":"https://dramatico.mcu.es/","name":"Centro Dramático Nacional","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://dramatico.mcu.es/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"}]}
+    </script>
+    <!-- / Yoast SEO plugin. -->
+    <meta content="Espectáculos" property="og:title"/>
+    <meta content="website" property="og:type"/>
+    <meta content="https://dramatico.mcu.es/espectaculos/" property="og:url"/>
+    <meta content="Centro Dramático Nacional" property="og:site_name"/>
+    <meta content="https://dramatico.mcu.es/wp-content/uploads/2022/06/foto-dragon-3-1024x576.jpg" property="og:image"/>
+    <link href="https://dramatico.mcu.es/wp-includes/css/dist/block-library/style.min.css?ver=7e76f622e411009a048d0e67d2d34c38" id="wp-block-library-css" media="all" rel="stylesheet"/>
+    <link href="https://dramatico.mcu.es/wp-content/plugins/pdfjs-viewer-shortcode/inc/../blocks/dist/style.css?ver=2.1.8" id="gutenberg-pdfjs-css" media="all" rel="stylesheet"/>
+    <style id="global-styles-inline-css" type="text/css">
+     body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+    </style>
+    <link href="https://dramatico.mcu.es/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.3" id="wpml-blocks-css" media="all" rel="stylesheet"/>
+    <link href="//dramatico.mcu.es/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1" id="wpml-legacy-horizontal-list-0-css" media="all" rel="stylesheet"/>
+    <link href="https://dramatico.mcu.es/wp-content/themes/cdn/css/bootstrap.css?ver=1.0.0.1696242611" id="theme-styles-css" media="all" rel="stylesheet"/>
+    <link href="https://dramatico.mcu.es/wp-content/themes/cdn/css/cdn.css?ver=1.0.0.1696242611" id="cdn-styles-css" media="all" rel="stylesheet"/>
+    <link href="https://dramatico.mcu.es/wp-content/themes/cdn/css/cdn-modal.css?ver=1.0.0.1696242611" id="cdn-css-modal-home-css" media="all" rel="stylesheet"/>
+    <script id="jquery-js" src="https://dramatico.mcu.es/wp-content/themes/cdn/js/jquery-3.5.1.js">
+    </script>
+    <script id="wpml-cookie-js-extra" type="text/javascript">
+     /* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"es","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"es","expires":1,"path":"\/"}};
+/* ]]> */
+    </script>
+    <script id="wpml-cookie-js" src="https://dramatico.mcu.es/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.3">
+    </script>
+    <meta content="WPML ver:4.6.3 stt:1,2;" name="generator"/>
+    <link href="https://dramatico.mcu.es/wp-content/uploads/2021/01/cropped-avatar-32x32.png" rel="icon" sizes="32x32"/>
+    <link href="https://dramatico.mcu.es/wp-content/uploads/2021/01/cropped-avatar-192x192.png" rel="icon" sizes="192x192"/>
+    <link href="https://dramatico.mcu.es/wp-content/uploads/2021/01/cropped-avatar-180x180.png" rel="apple-touch-icon"/>
+    <meta content="https://dramatico.mcu.es/wp-content/uploads/2021/01/cropped-avatar-270x270.png" name="msapplication-TileImage"/>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-180641748-1">
+    </script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180641748-1');
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-C2WYEWQK71">
+    </script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C2WYEWQK71');
+    </script>
+   </meta>
+  </meta>
+ </head>
+ <body class="page-template page-template-page-programacion page-template-page-programacion-php page page-id-19262 wp-embed-responsive">
+  <header class="site-header no-sticky" id="site-header">
+   <div class="inaem-brand">
+    <a class="btn-header" href="http://www.culturaydeporte.gob.es/cultura/artesescenicas/portada.html" target="_blank">
+    </a>
+    <img alt="INAEM Instituto Nacional de las Artes Escénicas y de la Música. Centro Dramático Nacional" src="https://dramatico.mcu.es/wp-content/themes/cdn/images/header-inaem.svg"/>
+    <img alt="INAEM Instituto Nacional de las Artes Escénicas y de la Música. Centro Dramático Nacional" src="https://dramatico.mcu.es/wp-content/themes/cdn/images/logo-ant-cdn-presidencia.svg"/>
+   </div>
+   <a class="btn-mobile">
+   </a>
+   <div class="language-switcher">
+    <div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-list-horizontal">
+     <ul>
+      <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-es wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal">
+       <a class="wpml-ls-link" href="https://dramatico.mcu.es/espectaculos/">
+        <span class="wpml-ls-native">
+         ES
+        </span>
+       </a>
+      </li>
+      <li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+       <a class="wpml-ls-link" href="https://dramatico.mcu.es/en/espectaculos/">
+        <span class="wpml-ls-native" lang="en">
+         EN
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="header-bottom">
+    <div class="form-search-box">
+     <form action="https://dramatico.mcu.es" method="get">
+      <input id="input_search_top" name="s" placeholder="Buscar..." type="text"/>
+     </form>
+    </div>
+    <nav class="nav-header desktop" id="nav-header">
+     <div class="menu-menu-principal-container">
+      <ul class="menu" id="menu-menu-principal">
+       <li class="btn-search-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-7624" id="menu-item-7624">
+        <a>
+         <i class="fas fa-search">
+         </i>
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7625" id="menu-item-7625">
+        <a href="#">
+         INFO
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7626" id="menu-item-7626">
+          <a href="https://dramatico.mcu.es/equipo/">
+           Equipo
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7627" id="menu-item-7627">
+          <a href="https://dramatico.mcu.es/contacto/">
+           Contacto
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7628" id="menu-item-7628">
+          <a href="https://dramatico.mcu.es/entradas/">
+           Entradas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19080" id="menu-item-19080">
+          <a href="https://dramatico.mcu.es/pases/">
+           No te quedes sin tus PASES DEL #DRAMÁTICO
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7629" id="menu-item-7629">
+          <a href="https://dramatico.mcu.es/descuentos/">
+           Descuentos
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7630" id="menu-item-7630">
+          <a href="https://dramatico.mcu.es/accesibilidad/">
+           Accesibilidad
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7631" id="menu-item-7631">
+          <a href="https://dramatico.mcu.es/noticias/">
+           Noticias
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11262" id="menu-item-11262">
+          <a href="https://dramatico.mcu.es/suscripcion/">
+           Suscripción
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7634" id="menu-item-7634">
+        <a href="https://dramatico.mcu.es/programacion/">
+         PROGRAMACIÓN
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7636" id="menu-item-7636">
+          <a href="https://dramatico.mcu.es/programacion/teatro-maria-guerrero/">
+           Teatro María Guerrero
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7637" id="menu-item-7637">
+          <a href="https://dramatico.mcu.es/programacion/teatro-valle-inclan/">
+           Teatro Valle-Inclán
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7639" id="menu-item-7639">
+          <a href="https://dramatico.mcu.es/programacion/temporadas-anteriores/">
+           Temporadas anteriores
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7833" id="menu-item-7833">
+          <a href="https://dramatico.mcu.es/programacion/">
+           Ver toda
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7638" id="menu-item-7638">
+        <a href="https://dramatico.mcu.es/en-gira/">
+         EN GIRA
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7640" id="menu-item-7640">
+        <a href="#">
+         ACCIÓN DRAMÁTICA
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19065" id="menu-item-19065">
+          <a href="https://dramatico.mcu.es/transversales/nuevos-dramaticos-2023-2024/">
+           Nuevos Dramáticos
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7642" id="menu-item-7642">
+          <a href="https://dramatico.mcu.es/dramawalker/">
+           Dramawalker
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7643" id="menu-item-7643">
+          <a href="https://dramatico.mcu.es/carta-blanca/">
+           Cartas Blancas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7835" id="menu-item-7835">
+          <a href="https://dramatico.mcu.es/transversales/encuentros-con-el-publico-22-23/">
+           Encuentros con los equipos artísticos
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7834" id="menu-item-7834">
+          <a href="https://dramatico.mcu.es/cinedrama/">
+           Cinedrama
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7645" id="menu-item-7645">
+          <a href="https://dramatico.mcu.es/mas-dramas/">
+           + Dramas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7830" id="menu-item-7830">
+          <a href="https://dramatico.mcu.es/talleres-publicos/">
+           Talleres
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17878" id="menu-item-17878">
+          <a href="https://dramatico.mcu.es/transversales/mediacion/">
+           Mediación
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14905" id="menu-item-14905">
+          <a href="https://dramatico.mcu.es/visitas-guiadas/">
+           Visitas guiadas
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7649" id="menu-item-7649">
+        <a href="#">
+         PROFESIONALES
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12593" id="menu-item-12593">
+          <a href="https://dramatico.mcu.es/transversales/residencias-dramaticas-2023-2024/">
+           Residencias Dramáticas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18106" id="menu-item-18106">
+          <a href="https://dramatico.mcu.es/transversales/programa-europeo-de-residencias-dramaturgicas-2022-2023/">
+           Residencias Dramatúrgicas Europeas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7651" id="menu-item-7651">
+          <a href="https://dramatico.mcu.es/talleres-intensivos/">
+           Talleres intensivos
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7652" id="menu-item-7652">
+          <a href="https://dramatico.mcu.es/clases-magistrales-2/">
+           Clases Magistrales
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7653" id="menu-item-7653">
+          <a href="https://dramatico.mcu.es/convocatorias/">
+           Convocatorias
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12766" id="menu-item-12766">
+          <a href="https://dramatico.mcu.es/vi-jornadas-de-plastica-teatral-objeto-escenico/">
+           Jornadas de Plástica Teatral
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-evento menu-item-12612" id="menu-item-12612">
+          <a href="https://dramatico.mcu.es/evento/24-salon-internacional-del-libro-teatral/">
+           24 Salón Internacional del Libro Teatral
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7655" id="menu-item-7655">
+        <a href="https://dramatico.mcu.es/publicaciones/">
+         PUBLICACIONES
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7656" id="menu-item-7656">
+          <a href="https://dramatico.mcu.es/publicaciones/nuevos-dramas-del-dramatico/">
+           Colección Nuevos dramas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11184" id="menu-item-11184">
+          <a href="https://dramatico.mcu.es/publicaciones/coleccion-residencias-dramaticas/">
+           Colección Residencias Dramáticas
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7657" id="menu-item-7657">
+          <a href="https://dramatico.mcu.es/publicaciones/coleccion-descubriendo-la-escena/">
+           Colección Descubriendo la escena
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7658" id="menu-item-7658">
+          <a href="https://dramatico.mcu.es/revista-dramatica/">
+           Revista Dramática
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7659" id="menu-item-7659">
+          <a href="https://www.youtube.com/channel/UC5lgS_K8HeU41p5ZwRG0gFg" rel="noopener" target="_blank">
+           Vídeos
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7831" id="menu-item-7831">
+          <a href="https://dramatico.mcu.es/musica/">
+           Música
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="group2 menu-item menu-item-type-post_type menu-item-object-page menu-item-7660" id="menu-item-7660">
+        <a href="https://dramatico.mcu.es/archivoprensa/">
+         Prensa
+        </a>
+       </li>
+       <li class="group2 menu-item menu-item-type-post_type menu-item-object-page menu-item-7661" id="menu-item-7661">
+        <a href="https://dramatico.mcu.es/buzon-de-proyectos/">
+         Buzón de proyectos
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <a class="cdn-brand" href="https://dramatico.mcu.es">
+     <img alt="Centro Dramático Nacional" src="https://dramatico.mcu.es/wp-content/themes/cdn/images/logo-centro-dramatico-yellow.svg"/>
+    </a>
+   </div>
+   <div class="header-image">
+    <img alt="" class="cover" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_1-scaled.jpg"/>
+   </div>
+   <!-- End header image -->
+  </header>
+  <!-- PARENT ID -->
+  <!-- Calendar -->
+  <div class="container-fluid bar-title">
+   <div class="container-fluid m1400 inner">
+    <div class="row">
+     <div class="col-12">
+      <div class="title w-100">
+       <h1 class="d-inline">
+        Espectáculos
+       </h1>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- Eventos actuales y futuros -->
+  <div class="container-fluid events-list m1400">
+   <div class="row row-eq-height">
+    <div class="col-12 text-center py-5">
+     No se han encontrado eventos.
+    </div>
+   </div>
+   <div class="row paginate-links">
+    <div class="col-12 text-center">
+     <ul class="pagination">
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- /Eventlist -->
+  <!-- Eventos pasados -->
+  <div class="container-fluid events-list events-list-old m1400">
+   <div class="row">
+    <div class="col-12 text-center">
+     <h2>
+      LO QUE YA HEMOS VISTO ESTA TEMPORADA
+     </h2>
+    </div>
+   </div>
+   <div class="row row-eq-height">
+    <!-- Item -->
+    <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+     <article class="event-resume position-relative">
+      <div class="header">
+       <div class="wrapper-image">
+        <div class="content">
+         <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12127">
+          <ol class="carousel-indicators">
+           <li class="active" data-slide-to="0" data-target="#carouselItem_12127">
+           </li>
+           <li class="" data-slide-to="1" data-target="#carouselItem_12127">
+           </li>
+           <li class="" data-slide-to="2" data-target="#carouselItem_12127">
+           </li>
+           <li class="" data-slide-to="3" data-target="#carouselItem_12127">
+           </li>
+          </ol>
+          <div class="carousel-inner">
+           <div class="carousel-item active">
+            <div class="item">
+             <a href="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+              <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2023/04/FALSESTUFF_HOME_HEADER-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2023/04/FALSESTUFF_HOME_HEADER-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2023/04/FALSESTUFF_HOME_HEADER-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2023/04/FALSESTUFF_HOME_HEADER-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2023/04/FALSESTUFF_HOME_HEADER-2048x1152.jpg 1920w"/>
+             </a>
+            </div>
+           </div>
+           <div class="carousel-item">
+            <div class="item">
+             <a href="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+              <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_2-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_2-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_2-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_2-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_2-1-2048x1152.jpg 1920w"/>
+             </a>
+            </div>
+           </div>
+           <div class="carousel-item">
+            <div class="item">
+             <a href="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+              <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_4-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_4-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_4-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_4-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_4-1-2048x1152.jpg 1920w"/>
+             </a>
+            </div>
+           </div>
+           <div class="carousel-item">
+            <div class="item">
+             <a href="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+              <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_3-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_3-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_3-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_3-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FALSESTUFF_CARTEL_WEB_3-1-2048x1152.jpg 1920w"/>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="wrapper-detail">
+        <a href="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+         <div class="sub-title">
+          <h3>
+           ¿Puede la copia superar al original?
+          </h3>
+         </div>
+         <div class="detail">
+          <h2>
+           <a href="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+            <span>
+             Falsestuff. La muerte de las musas
+            </span>
+           </a>
+          </h2>
+          <p>
+           Texto y dirección
+           <strong>
+            Nao Albet y Marcel Borràs
+           </strong>
+          </p>
+          <p>
+           12 MAY - 25 JUN |
+           <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+            <strong>
+             Teatro Valle-Inclán
+            </strong>
+           </a>
+           |
+           <a href="https://dramatico.mcu.es/sala-valle-inclan/">
+            Sala Grande
+           </a>
+          </p>
+         </div>
+        </a>
+       </div>
+       <div class="footer w-100">
+        <div class="row row-eq-height align-items-center my-3">
+         <div class="cta col-7">
+          <a class="border-outline" href="" target="_blank">
+           AGOTADAS
+          </a>
+         </div>
+         <div class="col-5 text-right share-links">
+          <a class="btn-social-links" data-title="Falsestuff.+La+muerte+de+las+musas" data-url="https://dramatico.mcu.es/evento/falsestuff-la-muerte-de-las-musas/">
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </article>
+    </div>
+   </div>
+   <!-- /Item -->
+   <!-- Item -->
+   <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+    <article class="event-resume position-relative">
+     <div class="header">
+      <div class="wrapper-image">
+       <div class="content">
+        <a href="https://dramatico.mcu.es/evento/la-fabula-de-la-ardilla/">
+         <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_OBRAS_TITERESCE-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_OBRAS_TITERESCE-1-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_OBRAS_TITERESCE-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_OBRAS_TITERESCE-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_OBRAS_TITERESCE-1-2048x1152.jpg 1920w"/>
+        </a>
+       </div>
+      </div>
+      <div class="wrapper-detail">
+       <a href="https://dramatico.mcu.es/evento/la-fabula-de-la-ardilla/">
+        <div class="sub-title">
+        </div>
+        <div class="detail">
+         <h2>
+          <a href="https://dramatico.mcu.es/evento/la-fabula-de-la-ardilla/">
+           <span>
+            La fábula de la ardilla
+           </span>
+          </a>
+         </h2>
+         <p>
+          Escrita por
+          <strong>
+           Jokin Oregi y La Baldufa
+          </strong>
+          y dirigida por
+          <strong>
+           Jokin Oregi
+          </strong>
+         </p>
+         <p>
+          24 JUN - 25 JUN |
+          <a href="https://dramatico.mcu.es/titerescena/">
+           <strong>
+            Titerescena
+           </strong>
+          </a>
+          |
+          <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+           Sala Francisco Nieva
+          </a>
+         </p>
+        </div>
+       </a>
+      </div>
+      <div class="footer w-100">
+       <div class="row row-eq-height align-items-center my-3">
+        <div class="cta col-7">
+         <a class="border-outline" href="" target="_blank">
+          AGOTADAS
+         </a>
+        </div>
+        <div class="col-5 text-right share-links">
+         <a class="btn-social-links" data-title="La+f%C3%A1bula+de+la+ardilla" data-url="https://dramatico.mcu.es/evento/la-fabula-de-la-ardilla/">
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </article>
+   </div>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11974">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11974">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11974">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/paraiso-perdido/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/paraiso-perdido/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/PARAISOPERDIDO_HOME_WEB-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/paraiso-perdido/">
+       <div class="sub-title">
+        <h3>
+         ¿Es pecado el saber?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/paraiso-perdido/">
+          <span>
+           Paraíso perdido
+          </span>
+         </a>
+        </h2>
+        <p>
+         Basada en el poema épico
+         <em>
+          Paraíso perdido
+         </em>
+         de
+         <strong>
+          John Milton
+          <br/>
+         </strong>
+         Texto
+         <strong>
+          Helena Tornero
+          <br/>
+         </strong>
+         Dramaturgia
+         <strong>
+          Helena Tornero
+         </strong>
+         y
+         <strong>
+          Andrés Lima
+          <br/>
+         </strong>
+         Dirigida por
+         <strong>
+          Andrés Lima
+         </strong>
+        </p>
+        <p>
+         05 MAY - 18 JUN |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Para%C3%ADso+perdido" data-url="https://dramatico.mcu.es/evento/paraiso-perdido/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12040">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12040">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12040">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/harakiri/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/harakiri/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2023/05/HARAKIRI_WEB_HOME_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/harakiri/">
+       <div class="sub-title">
+        <h3>
+         ¿Puede una ausencia tener una sombra luminosa?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/harakiri/">
+          <span>
+           Harakiri
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          María Velasco
+         </strong>
+         y dirigida por
+         <strong>
+          Les Impuxibles (Clara y Ariadna Peya)
+         </strong>
+        </p>
+        <p>
+         07 JUN - 18 JUN |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Harakiri" data-url="https://dramatico.mcu.es/evento/harakiri/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12076">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12076">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12076">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12076">
+         </li>
+         <li class="" data-slide-to="3" data-target="#carouselItem_12076">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/algunos-dias-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/algunos-dias-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_4-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_4-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_4-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_4-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_4-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/algunos-dias-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/algunos-dias-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ALGUNOSDIA_WEB_HOME_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/algunos-dias-2/">
+       <div class="sub-title">
+        <h3>
+         ¿Has vivido ya todos los días que han marcado tu vida para siempre?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/algunos-dias-2/">
+          <span>
+           algunos días
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Cristina Rojas
+         </strong>
+        </p>
+        <p>
+         21 ABR - 28 MAY |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-de-la-princesa/">
+          Sala de la Princesa
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="algunos+d%C3%ADas" data-url="https://dramatico.mcu.es/evento/algunos-dias-2/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_15352">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_15352">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_15352">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/supernormales-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/supernormales-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_SINOPSIS-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_SINOPSIS-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_SINOPSIS-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_SINOPSIS-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/03/SUPERNORMALES_WEB_SINOPSIS-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/supernormales-2/">
+       <div class="sub-title">
+        <h3>
+         ¿Y tú qué eres?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/supernormales-2/">
+          <span>
+           Supernormales
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Esther F. Carrodeguas
+         </strong>
+         y dirigida por
+         <strong>
+          Iñaki Rikarte
+         </strong>
+        </p>
+        <p>
+         28 ABR - 28 MAY |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Supernormales" data-url="https://dramatico.mcu.es/evento/supernormales-2/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/vacio/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_VACIO_TITERESCENA_16_9_9-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_VACIO_TITERESCENA_16_9_9-1-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_VACIO_TITERESCENA_16_9_9-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_VACIO_TITERESCENA_16_9_9-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_VACIO_TITERESCENA_16_9_9-1-2048x1152.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/vacio/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/vacio/">
+          <span>
+           Vacío
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Rosa Díaz
+         </strong>
+         y dirigida por
+         <strong>
+          Rosa Díaz y Joan Font
+         </strong>
+        </p>
+        <p>
+         20 MAY - 21 MAY |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Vac%C3%ADo" data-url="https://dramatico.mcu.es/evento/vacio/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11970">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11970">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11970">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/oasis-de-la-impunidad/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/oasis-de-la-impunidad/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OASISDELAIMPUNIDAD_WEB_-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/oasis-de-la-impunidad/">
+       <div class="sub-title">
+        <h3>
+         ¿Quién puede rendir cuentas en el oasis de la impunidad?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/oasis-de-la-impunidad/">
+          <span>
+           Oasis de la impunidad
+          </span>
+         </a>
+        </h2>
+        <p>
+         Una creación de
+         <strong>
+          Teatro La Re-sentida
+         </strong>
+         escrita y dirigida por
+         <strong>
+          Marco Layera
+         </strong>
+        </p>
+        <p>
+         13 ABR - 16 ABR |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Oasis+de+la+impunidad" data-url="https://dramatico.mcu.es/evento/oasis-de-la-impunidad/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12130">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12130">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12130">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12130">
+         </li>
+         <li class="" data-slide-to="3" data-target="#carouselItem_12130">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_OBRA_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_WEB_8-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_WEB_8-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_WEB_8-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_WEB_8-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FFPLR_CARTEL_WEB_8-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+       <div class="sub-title">
+        <h3>
+         ¿Se puede hacer algo sin imaginarlo primero?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+          <span>
+           Fundamentalmente fantasías para la resistencia
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Alfredo Sanzol
+         </strong>
+        </p>
+        <p>
+         24 FEB - 16 ABR |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-valle-inclan/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Fundamentalmente+fantas%C3%ADas+para+la+resistencia" data-url="https://dramatico.mcu.es/evento/fundamentalmente-fantasias-para-la-resistencia/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/la-mona-simona/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_LA-MONA-SIMONA_TIT-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_LA-MONA-SIMONA_TIT-1-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_LA-MONA-SIMONA_TIT-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_LA-MONA-SIMONA_TIT-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_LA-MONA-SIMONA_TIT-1-2048x1152.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/la-mona-simona/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/la-mona-simona/">
+          <span>
+           La mona simona
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Marli Santana
+         </strong>
+        </p>
+        <p>
+         15 ABR - 16 ABR |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="La+mona+simona" data-url="https://dramatico.mcu.es/evento/la-mona-simona/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11965">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11965">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11965">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_11965">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/el-proceso/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/el-proceso/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/el-proceso/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPROCESO_WEB_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/el-proceso/">
+       <div class="sub-title">
+        <h3>
+         ¿Es usted inocente?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/el-proceso/">
+          <span>
+           El proceso
+          </span>
+         </a>
+        </h2>
+        <p>
+         Basada en la novela de
+         <strong>
+          Franz Kafka
+         </strong>
+         con dramaturgia y dirección de
+         <strong>
+          Ernesto Caballero
+         </strong>
+        </p>
+        <p>
+         17 FEB - 02 ABR |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="El+proceso" data-url="https://dramatico.mcu.es/evento/el-proceso/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12073">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12073">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12073">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12073">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/obra-infinita/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/obra-infinita/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/obra-infinita/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/OBRAINFINITA_obra_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/obra-infinita/">
+       <div class="sub-title">
+        <h3>
+         ¿Me cuentas un cuento?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/obra-infinita/">
+          <span>
+           Obra infinita
+          </span>
+         </a>
+        </h2>
+        <p>
+         Una creación de
+         <strong>
+          Los Bárbaros
+         </strong>
+         . Escrita y dirigida por
+         <strong>
+          Javier Hernando
+         </strong>
+         y
+         <strong>
+          Miguel Rojo
+         </strong>
+        </p>
+        <p>
+         03 MAR - 02 ABR |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-de-la-princesa/">
+          Sala de la Princesa
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Obra+infinita" data-url="https://dramatico.mcu.es/evento/obra-infinita/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12039">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12039">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12039">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12039">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-palidos/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-palidos/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-palidos/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LOSPALIDOS_WEB_CARRUSEL-HOME_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/los-palidos/">
+       <div class="sub-title">
+        <h3>
+         ¿Quién cuenta la historia?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/los-palidos/">
+          <span>
+           Los pálidos
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Lucía Carballal
+         </strong>
+        </p>
+        <p>
+         15 FEB - 26 MAR |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Los+p%C3%A1lidos" data-url="https://dramatico.mcu.es/evento/los-palidos/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/una-historia-boca-abajo/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVEN-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVEN-1-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVEN-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVEN-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVEN-1-2048x1152.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/una-historia-boca-abajo/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/una-historia-boca-abajo/">
+          <span>
+           Una historia boca abajo
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Andrea Buzzetti, Enrico Montalbani y Carlotta Zini
+         </strong>
+         y dirigida por
+         <strong>
+          Andrea Buzzetti
+         </strong>
+        </p>
+        <p>
+         11 MAR - 12 MAR |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Una+historia+boca+abajo" data-url="https://dramatico.mcu.es/evento/una-historia-boca-abajo/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/el-desvan/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-DESVAN_TITERESCENA_16_9-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-DESVAN_TITERESCENA_16_9-1-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-DESVAN_TITERESCENA_16_9-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-DESVAN_TITERESCENA_16_9-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-DESVAN_TITERESCENA_16_9-1-2048x1152.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/el-desvan/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/el-desvan/">
+          <span>
+           El desván
+          </span>
+         </a>
+        </h2>
+        <p>
+         18 FEB - 19 FEB |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="El+desv%C3%A1n" data-url="https://dramatico.mcu.es/evento/el-desvan/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12056">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12056">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12056">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12056">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/karaoke-elusia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_KARAOKE-ELUSIA_SINTEXTO_16_9_12-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_KARAOKE-ELUSIA_SINTEXTO_16_9_12-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_KARAOKE-ELUSIA_SINTEXTO_16_9_12-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_KARAOKE-ELUSIA_SINTEXTO_16_9_12-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_KARAOKE-ELUSIA_SINTEXTO_16_9_12-1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/karaoke-elusia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/karaoke-elusia/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/KARAOKEELUSIA_WEB_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/karaoke-elusia/">
+       <div class="sub-title">
+        <h3>
+         ¿Querías morir?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/karaoke-elusia/">
+          <span>
+           Karaoke Elusia
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Oriol Puig Grau
+         </strong>
+        </p>
+        <p>
+         20 ENE - 12 FEB |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-de-la-princesa/">
+          Sala de la Princesa
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Karaoke+Elusia" data-url="https://dramatico.mcu.es/evento/karaoke-elusia/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12119">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12119">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12119">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12119">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/farm-fatale/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/farm-fatale/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_6-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_6-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_6-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_6-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_6-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/farm-fatale/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/FARMFATALE_WEB_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/farm-fatale/">
+       <div class="sub-title">
+        <h3>
+         ¿Pueden los espantapájaros cambiar el futuro de nuestro planeta?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/farm-fatale/">
+          <span>
+           Farm fatale
+          </span>
+         </a>
+        </h2>
+        <p>
+         Creación y dirección de
+         <strong>
+          Philippe Quesne
+         </strong>
+        </p>
+        <p>
+         26 ENE - 29 ENE |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-valle-inclan/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Farm+fatale" data-url="https://dramatico.mcu.es/evento/farm-fatale/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11962">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11962">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11962">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_11962">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/yerma/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/Yerma-2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/Yerma-2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/Yerma-2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Yerma-2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Yerma-2.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/yerma/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2023/01/Yerma-7-1024x683.jpeg" srcset="https://dramatico.mcu.es/wp-content/uploads/2023/01/Yerma-7-300x200.jpeg 300w,https://dramatico.mcu.es/wp-content/uploads/2023/01/Yerma-7-768x512.jpeg 768w, https://dramatico.mcu.es/wp-content/uploads/2023/01/Yerma-7-1024x683.jpeg 1024w, https://dramatico.mcu.es/wp-content/uploads/2023/01/Yerma-7-2048x1365.jpeg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/yerma/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/YERMA_WEB-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/YERMA_WEB-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/YERMA_WEB-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/YERMA_WEB-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/YERMA_WEB-1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/yerma/">
+       <div class="sub-title">
+        <h3>
+         ¿Y no podré esperarlo?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/yerma/">
+          <span>
+           Yerma
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Federico García Lorca
+         </strong>
+         , dirigida por
+         <strong>
+          Juan Carlos Martel Bayod
+         </strong>
+         y espacio escénico de
+         <strong>
+          Frederic Amat
+         </strong>
+        </p>
+        <p>
+         13 ENE - 22 ENE |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Yerma" data-url="https://dramatico.mcu.es/evento/yerma/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12029">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12029">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12029">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12029">
+         </li>
+         <li class="" data-slide-to="3" data-target="#carouselItem_12029">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/sovrimpressioni/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/12/SOVRIMPRESSIONI_WEB_HEADER_ENTRADAS-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/12/SOVRIMPRESSIONI_WEB_HEADER_ENTRADAS-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/12/SOVRIMPRESSIONI_WEB_HEADER_ENTRADAS-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/12/SOVRIMPRESSIONI_WEB_HEADER_ENTRADAS-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/12/SOVRIMPRESSIONI_WEB_HEADER_ENTRADAS-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/sovrimpressioni/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/sovrimpressioni/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/12/DRAMATICO_HEADER_SOVRIMPRESSIONI-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/12/DRAMATICO_HEADER_SOVRIMPRESSIONI-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/12/DRAMATICO_HEADER_SOVRIMPRESSIONI-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/12/DRAMATICO_HEADER_SOVRIMPRESSIONI-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/12/DRAMATICO_HEADER_SOVRIMPRESSIONI-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/sovrimpressioni/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/SOVRIMPRESSIONI_WEB_HOME-3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/sovrimpressioni/">
+       <div class="sub-title">
+        <h3>
+         ¿Esos que salen en los espejos somos nosotros?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/sovrimpressioni/">
+          <span>
+           Sovrimpressioni
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Daria Deflorian
+         </strong>
+         y
+         <strong>
+          Antonio Tagliarini
+         </strong>
+        </p>
+        <p>
+         11 ENE - 22 ENE |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Sovrimpressioni" data-url="https://dramatico.mcu.es/evento/sovrimpressioni/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/quiero-la-luna/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/quiero-la-luna_thumbnail-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/quiero-la-luna_thumbnail-1-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/quiero-la-luna_thumbnail-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/quiero-la-luna_thumbnail-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/quiero-la-luna_thumbnail-1.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/quiero-la-luna/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/quiero-la-luna/">
+          <span>
+           ¡Quiero la luna!
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Carlos Silva
+         </strong>
+         y dirigida por
+         <strong>
+          Leonor Bandeira
+         </strong>
+        </p>
+        <p>
+         14 ENE - 15 ENE |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="%C2%A1Quiero+la+luna%21" data-url="https://dramatico.mcu.es/evento/quiero-la-luna/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12095">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="3" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="4" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="5" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="6" data-target="#carouselItem_12095">
+         </li>
+         <li class="" data-slide-to="7" data-target="#carouselItem_12095">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_7-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_7-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_7-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_7-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_7-1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_4-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_4-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_4-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_4-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_4-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_5-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_5-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_5-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_5-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_5-1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_6-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_6-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_6-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_6-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_6-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_8-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_8-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_8-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_8-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_8-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/LECTURAFACIL_WEB_CARRUSEL_HOME_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+       <div class="sub-title">
+        <h3>
+         ¿A este caos lo llamas orden?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/lectura-facil/">
+          <span>
+           Lectura fácil
+          </span>
+         </a>
+        </h2>
+        <p>
+         Dirección y dramaturgia de
+         <strong>
+          Alberto San Juan
+         </strong>
+         <br/>
+         (versión libre de la novela
+         <em>
+          Lectura fácil
+         </em>
+         de
+         <strong>
+          Cristina Morales
+         </strong>
+         )
+        </p>
+        <p>
+         18 NOV - 08 ENE |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-valle-inclan/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Lectura+f%C3%A1cil" data-url="https://dramatico.mcu.es/evento/lectura-facil/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11984">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11984">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11984">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_11984">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/el-peso-de-un-cuerpo-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/el-peso-de-un-cuerpo-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/el-peso-de-un-cuerpo-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ELPESODEUNCUERPO_WEB_HOME-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/el-peso-de-un-cuerpo-2/">
+       <div class="sub-title">
+        <h3>
+         ¿Quién me sostiene a mí mientras sostengo a mi padre?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/el-peso-de-un-cuerpo-2/">
+          <span>
+           El peso de un cuerpo
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Victoria Szpunberg
+         </strong>
+        </p>
+        <p>
+         30 NOV - 23 DIC |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="El+peso+de+un+cuerpo" data-url="https://dramatico.mcu.es/evento/el-peso-de-un-cuerpo-2/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11958">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11958">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11958">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_11958">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/pieces-of-a-woman/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/pieces-of-a-woman/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/pieces-of-a-woman/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/Carrusel-Home-1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/pieces-of-a-woman/">
+       <div class="sub-title">
+        <h3>
+         ¿Quiénes son esas personas a las que llamo mi familia?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/pieces-of-a-woman/">
+          <span>
+           Pieces of a Woman
+          </span>
+         </a>
+        </h2>
+        <p>
+         Una creación de
+         <strong>
+          TR Warszawa
+         </strong>
+         con texto y dramaturgia de
+         <strong>
+          Kata Wéber
+         </strong>
+         y dirección de
+         <strong>
+          Kornél Mundruczó
+         </strong>
+        </p>
+        <p>
+         15 DIC - 18 DIC |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Pieces+of+a+Woman" data-url="https://dramatico.mcu.es/evento/pieces-of-a-woman/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12169">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12169">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12169">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12169">
+         </li>
+         <li class="" data-slide-to="3" data-target="#carouselItem_12169">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-columpios/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-columpios/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-columpios/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/los-columpios/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-4-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-4-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-4-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-4-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/11/pieza-4-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/los-columpios/">
+       <div class="sub-title">
+        <h3>
+         ¿Qué quieres ser de mayor?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/los-columpios/">
+          <span>
+           Los columpios
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          José Troncoso
+         </strong>
+        </p>
+        <p>
+         01 DIC - 18 DIC |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-de-la-princesa/">
+          Sala de la Princesa
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Los+columpios" data-url="https://dramatico.mcu.es/evento/los-columpios/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/chinchulina-y-el-ruisenor-de-la-china/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/chinchulina_thumbnail-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/chinchulina_thumbnail-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/chinchulina_thumbnail-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/chinchulina_thumbnail-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/chinchulina_thumbnail.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/chinchulina-y-el-ruisenor-de-la-china/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/chinchulina-y-el-ruisenor-de-la-china/">
+          <span>
+           Chinchulina y el ruiseñor de la China
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Pablo y Alba Vergne
+         </strong>
+         y dirigida por
+         <strong>
+          Pablo Vergne
+         </strong>
+        </p>
+        <p>
+         17 DIC - 18 DIC |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Chinchulina+y+el+ruise%C3%B1or+de+la+China" data-url="https://dramatico.mcu.es/evento/chinchulina-y-el-ruisenor-de-la-china/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11955">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11955">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11955">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/entre-chien-et-loup/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/entre-chien-et-loup/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/ENTRE_CHIEN_ET_LOUP_WEB_-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/entre-chien-et-loup/">
+       <div class="sub-title">
+        <h3>
+         ¿Cómo escapar de las ideologías si corren más que las personas?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/entre-chien-et-loup/">
+          <span>
+           Entre chien et loup
+          </span>
+         </a>
+        </h2>
+        <p>
+         Basada en la película de
+         <em>
+          Dogville
+         </em>
+         de
+         <strong>
+          Lars von Trier
+         </strong>
+         . Dramaturgia, dirección y adaptación fílmica
+         <strong>
+          Christiane Jatahy
+         </strong>
+        </p>
+        <p>
+         En colaboración con el 40º Festival de Otoño
+        </p>
+        <p>
+         25 NOV - 27 NOV |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Entre+chien+et+loup" data-url="https://dramatico.mcu.es/evento/entre-chien-et-loup/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/uanna/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/uanna_thumbnail-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/uanna_thumbnail-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/uanna_thumbnail-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/uanna_thumbnail-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/uanna_thumbnail.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/uanna/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/uanna/">
+          <span>
+           Uanna
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Fran Caballero
+         </strong>
+         y dirigida por
+         <strong>
+          Juan Antonio de la Plaza
+         </strong>
+        </p>
+        <p>
+         19 NOV - 20 NOV |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Uanna" data-url="https://dramatico.mcu.es/evento/uanna/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_11983">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_11983">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_11983">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/400-dias-sin-luz/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_HOME_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_HOME_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_HOME_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_HOME_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_HOME_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/400-dias-sin-luz/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/400DSL_WEB_-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/400-dias-sin-luz/">
+       <div class="sub-title">
+        <h3>
+         <strong>
+          ¿Por qué han cortado la luz en la Cañada Real?
+         </strong>
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/400-dias-sin-luz/">
+          <span>
+           400 días sin luz
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Vanessa Espín
+         </strong>
+         y dirigida por
+         <strong>
+          Raquel Alarcón
+         </strong>
+        </p>
+        <p>
+         07 OCT - 13 NOV |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-francisco-nieva/">
+          Sala Francisco Nieva
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="400+d%C3%ADas+sin+luz" data-url="https://dramatico.mcu.es/evento/400-dias-sin-luz/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12052">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12052">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12052">
+         </li>
+         <li class="" data-slide-to="2" data-target="#carouselItem_12052">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/breve-historia-del-ferrocarril-espanol-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/breve-historia-del-ferrocarril-espanol-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/breve-historia-del-ferrocarril-espanol-2/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_3-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_3-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_3-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_3-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/10/BHDFE_WEB_3-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/breve-historia-del-ferrocarril-espanol-2/">
+       <div class="sub-title">
+        <h3>
+         ¿Cuánto me llevo?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/breve-historia-del-ferrocarril-espanol-2/">
+          <span>
+           Breve historia del ferrocarril español
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Joan Yago
+         </strong>
+         y dirigida por
+         <strong>
+          Beatriz Jaén
+         </strong>
+        </p>
+        <p>
+         14 OCT - 13 NOV |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-de-la-princesa/">
+          Sala de la Princesa
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Breve+historia+del+ferrocarril+espa%C3%B1ol" data-url="https://dramatico.mcu.es/evento/breve-historia-del-ferrocarril-espanol-2/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12138">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12138">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12138">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/la-cabeza-del-dragon/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/la-cabeza-del-dragon/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/lacabezadeldragon_16_9_HOME_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/la-cabeza-del-dragon/">
+       <div class="sub-title">
+        <h3>
+         ¿Valen las tradiciones aunque quemen?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/la-cabeza-del-dragon/">
+          <span>
+           La cabeza del dragón
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita por
+         <strong>
+          Ramón María del Valle-Inclán
+         </strong>
+         con dirección de
+         <strong>
+          Lucía Miranda
+         </strong>
+        </p>
+        <p>
+         30 SEP - 13 NOV |
+         <a href="https://dramatico.mcu.es/teatro-maria-guerrero/">
+          <strong>
+           Teatro María Guerrero
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-grande/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="La+cabeza+del+drag%C3%B3n" data-url="https://dramatico.mcu.es/evento/la-cabeza-del-dragon/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <a href="https://dramatico.mcu.es/evento/el-arbol-del-tenere/">
+        <img alt="" class="w-100" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-ARBOL-DEL..._TITERESCENA_16_9_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-ARBOL-DEL..._TITERESCENA_16_9_2-300x169.jpg 300w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-ARBOL-DEL..._TITERESCENA_16_9_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-ARBOL-DEL..._TITERESCENA_16_9_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/DRAMATICO_INTERVENCION_EL-ARBOL-DEL..._TITERESCENA_16_9_2-2048x1152.jpg 1920w"/>
+       </a>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/el-arbol-del-tenere/">
+       <div class="sub-title">
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/el-arbol-del-tenere/">
+          <span>
+           El árbol del teneré
+          </span>
+         </a>
+        </h2>
+        <p>
+         Creada y dirigida por
+         <strong>
+          Toni Agustí
+         </strong>
+        </p>
+        <p>
+         15 OCT - 16 OCT |
+         <a href="https://dramatico.mcu.es/titerescena/">
+          <strong>
+           Titerescena
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-mirlo-blanco/">
+          Sala El Mirlo Blanco
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="El+%C3%A1rbol+del+tener%C3%A9" data-url="https://dramatico.mcu.es/evento/el-arbol-del-tenere/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- Item -->
+  <div class="item item-event-resume evento-programacion item-event-old col-lg-4 col-md-6">
+   <article class="event-resume position-relative">
+    <div class="header">
+     <div class="wrapper-image">
+      <div class="content">
+       <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselItem_12084">
+        <ol class="carousel-indicators">
+         <li class="active" data-slide-to="0" data-target="#carouselItem_12084">
+         </li>
+         <li class="" data-slide-to="1" data-target="#carouselItem_12084">
+         </li>
+        </ol>
+        <div class="carousel-inner">
+         <div class="carousel-item active">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/madre-de-azucar/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_1-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_1-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_1-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_1-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_1-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+         <div class="carousel-item">
+          <div class="item">
+           <a href="https://dramatico.mcu.es/evento/madre-de-azucar/">
+            <img alt="" class="img-fluid" src="https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_2-1024x576.jpg" srcset="https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_2-300x169.jpg 300w,https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_2-768x432.jpg 768w, https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_2-1024x576.jpg 1024w, https://dramatico.mcu.es/wp-content/uploads/2022/06/MADREDEAZUCAR_WEB_16_9_CARRUSEL_HOME_2-2048x1152.jpg 1920w"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="wrapper-detail">
+      <a href="https://dramatico.mcu.es/evento/madre-de-azucar/">
+       <div class="sub-title">
+        <h3>
+         ¿Qué puede romperse si soy madre?
+        </h3>
+       </div>
+       <div class="detail">
+        <h2>
+         <a href="https://dramatico.mcu.es/evento/madre-de-azucar/">
+          <span>
+           Madre de azúcar
+          </span>
+         </a>
+        </h2>
+        <p>
+         Escrita y dirigida por
+         <strong>
+          Clàudia Cedó
+         </strong>
+        </p>
+        <p>
+         23 SEP - 09 OCT |
+         <a href="https://dramatico.mcu.es/teatro-valle-inclan/">
+          <strong>
+           Teatro Valle-Inclán
+          </strong>
+         </a>
+         |
+         <a href="https://dramatico.mcu.es/sala-valle-inclan/">
+          Sala Grande
+         </a>
+        </p>
+       </div>
+      </a>
+     </div>
+     <div class="footer w-100">
+      <div class="row row-eq-height align-items-center my-3">
+       <div class="cta col-7">
+        <a class="border-outline" href="" target="_blank">
+         AGOTADAS
+        </a>
+       </div>
+       <div class="col-5 text-right share-links">
+        <a class="btn-social-links" data-title="Madre+de+az%C3%BAcar" data-url="https://dramatico.mcu.es/evento/madre-de-azucar/">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </article>
+  </div>
+  <!-- /Item -->
+  <!-- /Eventlist -->
+  <footer class="site-footer">
+   <div class="container-fluid footer-top">
+    <div class="container">
+     <div class="row">
+      <div class="col-lg-3 address text-center text-lg-right order-2 order-lg-1">
+       <address>
+        <h4>
+         Teatro María Guerrero
+        </h4>
+        C/Tamayo y Baus, 4. 28004 Madrid
+        <br/>
+        91 310 29 49
+       </address>
+      </div>
+      <div class="logo col-lg-6 order-1 order-lg-2">
+       <a href="https://dramatico.mcu.es">
+        <img alt="Centro Dramático Nacional" src="https://dramatico.mcu.es/wp-content/themes/cdn/images/logo-centro-dramatico-black.svg"/>
+       </a>
+      </div>
+      <div class="col-lg-3 address text-center text-lg-left order-3 order-lg-3">
+       <address>
+        <h4>
+         Teatro Valle-Inclán
+        </h4>
+        Plazuela de Ana Diosdado s/n (Plaza de Lavapiés). 28012 Madrid
+        <br/>
+        91 505 88 00
+       </address>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container-fluid footer-middle">
+    <div class="row">
+     <div class="col-12 text-center">
+      <div class="menu-menu-footer-container">
+       <ul class="menu-footer" id="menu-menu-footer">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311" id="menu-item-311">
+         <a href="https://dramatico.mcu.es/contacto/">
+          Contacto
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-433" id="menu-item-433">
+         <a href="https://dramatico.mcu.es/aviso-legal/">
+          Aviso legal
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63" id="menu-item-63">
+         <a href="https://www.culturaydeporte.gob.es/cultura/artesescenicas/quejas-y-sugerencias.html" rel="noopener" target="_blank">
+          Quejas y Sugerencias
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434" id="menu-item-434">
+         <a href="https://dramatico.mcu.es/accesibilidad/">
+          Accesibilidad
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65" id="menu-item-65">
+         <a href="https://www.culturaydeporte.gob.es/cultura/artesescenicas/proteccion-datos.html" rel="noopener" target="_blank">
+          Protección de datos
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container-fluid footer-bottom">
+    <div class="row row-eq-height text-center">
+     <div class="col-lg-4 item">
+      <a href="https://www.culturaydeporte.gob.es/cultura/artesescenicas/portada.html" target="_blank">
+       <img alt="Ministerio de cultura y deporte. inaem" class="logo" src="https://dramatico.mcu.es/wp-content/themes/cdn/images/footer-inaem.svg" style="width:160px"/>
+      </a>
+      <a href="https://bonoculturajoven.gob.es/" target="_blank">
+       <img alt="Bono Cultural" class="bono-cultural" src="https://dramatico.mcu.es/wp-content/themes/cdn/images/bono-cultural.png" style="width:40px"/>
+      </a>
+      <img alt="Plan de Recuperación, Transformación y Resiliencia" class="my-1 mb-3 mb-md-1" src="https://dramatico.mcu.es/wp-content/uploads/2023/10/logo-prtr.jpg">
+      </img>
+     </div>
+     <div class="col-lg-4 item">
+      <div class="d-table h-100 w-100">
+       <div class="d-table-cell align-middle">
+        <a class="my-0 d-block" href="/suscripcion/">
+         SUSCRÍBETE A NUESTRAS NOTICIAS Y NOVEDADES
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="col-lg-4 item rrss">
+      <div class="d-table h-100 w-100">
+       <div class="d-table-cell align-middle">
+        <div class="menu-rrss-container">
+         <ul class="social-links" id="menu-rrss">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57" id="menu-item-57">
+           <a href="https://www.facebook.com/CENTRO-DRAM%C3%81TICO-NACIONAL-113271881399/" rel="noopener" target="_blank">
+            <span class="fab fa-facebook">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58" id="menu-item-58">
+           <a href="https://twitter.com/centrodramatico" rel="noopener" target="_blank">
+            <span class="fab fa-twitter">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59" id="menu-item-59">
+           <a href="https://www.instagram.com/centrodramaticonacional/" rel="noopener" target="_blank">
+            <span class="fab fa-instagram">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60" id="menu-item-60">
+           <a href="https://www.youtube.com/user/centrodramatico001" rel="noopener" target="_blank">
+            <span class="fab fa-youtube">
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3694" id="menu-item-3694">
+           <a href="https://open.spotify.com/user/iatzklm7goymsbteocdre84hb?si=4cd899a0599c49cd" rel="noopener" target="_blank">
+            <i class="fab fa-spotify">
+            </i>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3695" id="menu-item-3695">
+           <a href="https://soundcloud.com/centrodramaticonacional" rel="noopener" target="_blank">
+            <i class="fab fa-soundcloud">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script id="bootstrap-js" src="https://dramatico.mcu.es/wp-content/themes/cdn/js/bootstrap.min.js?ver=1.0.0.1662379199">
+  </script>
+  <script id="vue-js" src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.min.js?ver=1.0.0.1662379199">
+  </script>
+  <script id="axios-js" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.js?ver=1.0.0.1662379199">
+  </script>
+  <script id="cdn-app-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/dramatico.mcu.es\/wp-admin\/admin-ajax.php","nonce":"be0bec9ca7","action":"get-cdn-events"};
+/* ]]> */
+  </script>
+  <script id="cdn-app-js" src="https://dramatico.mcu.es/wp-content/themes/cdn/js/app.js?ver=1.0.0.1662379199">
+  </script>
+  <script id="google-recaptcha-v2-js" src="https://www.google.com/recaptcha/api.js?hl=es&amp;ver=5.1.8">
+  </script>
+  <script async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=1087630637" type="text/javascript">
+  </script>
+ </body>
+</html>

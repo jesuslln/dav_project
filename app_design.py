@@ -22,19 +22,15 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
-    html.Nav(
-        children = [
-        dcc.Tabs(
-            id='tabs',
-            value='tab-home',
-            children=[
-                dcc.Tab(label='Home', value='tab-home', id="tab-home"),
-                dcc.Tab(label='Search', value='tab-search'),
-                dcc.Tab(label='Your Theatre', value='tab-theatre'),
-            ],
-        ),
-    ],
-        id = 'navbar'),
+    dcc.Tabs(
+        id='tabs',
+        value='tab-home',
+        children=[
+            dcc.Tab(label='Home', value='tab-home', id="tab-home"),
+            dcc.Tab(label='Search', value='tab-search'),
+            dcc.Tab(label='Your Theatre', value='tab-theatre'),
+        ],
+    ),
     html.Div(id='tabs-content')
 ])
 
