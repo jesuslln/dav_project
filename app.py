@@ -25,19 +25,21 @@ server = app.server
 
 app.layout = html.Div([
     html.Nav(
-        children = [
-        dcc.Tabs(
-            id='tabs',
-            value='tab-home',
-            children=[
-                dcc.Tab(label='Home', value='tab-home', id="tab-home"),
-                dcc.Tab(label='Search', value='tab-search'),
-                dcc.Tab(label='Your Theatre', value='tab-theatre'),
-            ],
-        ),
-    ],
-        id = 'navbar'),
-    html.Div(id='tabs-content')
+        children=[
+            dcc.Tabs(
+                id='tabs',
+                value='tab-home',
+                children=[
+                    dcc.Tab(label='Home', value='tab-home', id="tab-home"),
+                    dcc.Tab(label='Search', value='tab-search'),
+                    dcc.Tab(label='Your Theatre', value='tab-theatre'),
+                ],
+            ),
+        ],
+        id='navbar',
+        className='navbar navbar-expand-lg navbar-light bg-light',
+    ),
+    html.Div(id='tabs-content', className='container'),
 ])
 
 

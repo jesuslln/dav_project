@@ -1,15 +1,16 @@
 /* styles.css */
+
 body {
     background-color: #FBFCE4;    /* Set your desired background color */
 }
 
-#tab {
+/* #tab {
     padding: 10px;
     color: #fff;
     text-decoration: none;
     margin-right: 15px;
-}
-
+} */
+/* 
 #tab:hover {
     background-color: #555;
 }
@@ -26,8 +27,8 @@ body {
 #tabs-content {
     margin: 10px;
     background-color: #FBFCE4;
-}
-
+} */
+/* 
 #titulo {
     background-color: #FFFFF6;
 }
@@ -45,4 +46,59 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+} */
+
+/* Home Tab  */
+
+
+#div-home{
+    margin-top: 50px;
+}
+
+.heading-left {
+    /* display: inline-block; */
+    /* margin-right: 500px;
+    margin-left: 50px; */
+    /* margin-top: 50px; */
+}
+
+.heading-right {
+    /* display: inline-block; */
+    /* margin-right: 50px;
+    margin-left: 500px; */
+    /* margin-top: 50px; */
+}
+
+/* 
+.home-list {
+    display: inline-block;
+}  */
+
+/* .home-list {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 25px;
+    margin-bottom: 50px;
+} */
+/* 
+.home-list-left {
+    margin-left: 50px;
+    margin-right: 400px;
+
+}
+
+.home-list-right {
+    margin-right: 50px;
+    margin-left: 400px;
+} */
+
+/* Search Tab  */
+#search-input {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 50px;
 }

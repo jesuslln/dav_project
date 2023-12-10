@@ -7,7 +7,7 @@ def create_square_component(text, image_source):
             html.H4(text, style={"text-align": "center"}),
             html.Img(src=image_source, style={"max-width": "100px", "max-height": "100px", "margin": "auto"}),
         ],
-        style={"border": "1px solid #ddd", "padding": "10px", "text-align": "center", "width": "50%"}
+        style={ "padding": "10px", "text-align": "center", "width": "50%"}
     )
 
 def goto_tab_search():
@@ -16,14 +16,7 @@ def goto_tab_search():
                 dcc.Input(
                     id='search-input',
                     type='text',
-                    placeholder='Enter your search query...',
-                    style={
-                        "width": "100%",
-                        "margin-bottom": "20px",
-                        "margin-right": "100px",
-                        "margin-left": "50px",
-                        "margin-top": "50px",
-                        }
+                    placeholder='Enter your search query...'
                 ),
 
                 html.Div(id='search-results-container', style={"height": "500px"}),
