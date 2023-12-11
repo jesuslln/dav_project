@@ -1,11 +1,16 @@
 # Importamos las librerias mínimas necesarias
+import os
+import sys
+print("Current directory:", os.getcwd())
+print("Python path:", sys.path)
+
 import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
 
 from tab_search import goto_tab_search
 from tab_theatre import goto_tab_theatre
-from tab_cdn import goto_tab_cnd
+from tab_cdn import goto_tab_cdn
 
 
 # External CSS stylesheets
@@ -48,7 +53,7 @@ app.layout = html.Div([
               [Input('tabs', 'value')])
 def update_tab_content(selected_tab):
     if selected_tab == 'tab-cdn':
-        return goto_tab_cnd()
+        return goto_tab_cdn()
 
     elif selected_tab == 'tab-search':
         return goto_tab_search()

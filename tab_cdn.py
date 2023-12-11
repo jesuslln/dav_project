@@ -167,7 +167,7 @@ rf.fit(X_train, y_train)
 
 
 
-def goto_tab_cnd():
+def goto_tab_cdn():
     return html.Div(
     children=[
         # First Row
