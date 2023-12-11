@@ -1,8 +1,8 @@
 # Importamos las librerias mínimas necesarias
 import os
 import sys
-print("Current directory:", os.getcwd())
-print("Python path:", sys.path)
+sys.path.append(os.path.join(os.path.dirname(__file__), '..')) 
+
 
 import dash
 from dash import dcc, html
