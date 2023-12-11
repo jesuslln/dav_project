@@ -1,3 +1,8 @@
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..')) 
+
+
 from dash import dcc, html
 import numpy as np
 import pandas as pd
