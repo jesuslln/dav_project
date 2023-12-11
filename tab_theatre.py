@@ -1,169 +1,111 @@
 from dash import dcc, html
 import numpy as np
+import pandas as pd
 import plotly.graph_objects as go
+import plotly.express as px
+
+from datos.data_processing import get_data_user1, get_data_user2, get_obras
+
+
+data_user1 = get_data_user1()
+data_user2 = get_data_user2()
+obras = get_obras()
+
+data_user1['user'] = 'Tu'
+data_user2['user'] = 'Marta'
+data_users = pd.concat([data_user1, data_user2], ignore_index = True)
+
+data_user1 = data_user1.merge(obras[['Titulo', 'Teatro']], on='Titulo', how='inner')
+
+
+data_users_byYear = data_users.copy()
+data_users_byYear['Fecha_Sesion'] = data_users_byYear['Fecha_Sesion'].dt.year
+data_users_byYear = pd.DataFrame(data_users_byYear.groupby(['Fecha_Sesion', 'user']).size().reset_index(name='Count'))
+data_users_byYear['Fecha_Sesion'] = data_users_byYear['Fecha_Sesion'].astype(str)
+
+
+data_user1_byTheatre = data_user1.copy()
+data_user1_byTheatre['Fecha_Sesion'] = data_user1_byTheatre['Fecha_Sesion'].dt.year.astype(str)
+data_user1_byTheatre = pd.DataFrame(data_user1_byTheatre.groupby(['Fecha_Sesion', 'Teatro']).size().reset_index(name='Count'))
+
+fig_1 = px.line(data_users_byYear, x='Fecha_Sesion', y='Count', color='user', markers=True)
+
+fig_1.update_layout(title = "Compara obras con tu amigo",
+                  xaxis_title = "Años", yaxis_title = "Número de Obras Vistas",
+                  barmode='stack')
+
+
+
+colors = {
+    "Teatro Valle-Inclán": "lightblue",
+    "Teatro María Guerrero": "mediumseagreen",
+    'Titerescena': "red",
+}
+
+fig_2 = go.Figure()
+
+for key in colors.keys():
+    aux = data_user1_byTheatre[data_user1_byTheatre["Teatro"] == key]
+    fig_2.add_trace(
+        go.Bar(
+            x = aux['Fecha_Sesion'],
+            y = aux["Count"],
+            name = key,
+            marker_color = colors[key],
+            width= np.repeat(0.65,len(data_user1_byTheatre))
+        )
+    )
+fig_2.update_layout(title = "Obras que has visto cada año y en cada Teatro",
+                  xaxis_title = "Años", yaxis_title = "Obras Vistas",
+                  barmode='stack')
+
 
 
 def goto_tab_theatre():
-    return html.Div(            
-        children=[
-            html.H1(  # Primera fila
-                children=[
-                    "Your Theatre"
-                ],
-                id="titulo",
-                style={  # Aquí aplico todo lo que necesite de CSS
-                    "text-align": "center",  # Alineo el texto al centro
-                    "font-family": "Arial",  # Cambio el tipo de fuente
-                    "text-decoration": "underline"  # Subrayar el texto
-                }
-            ),
-            html.Div(
-                children=[
-                    dcc.Graph(
-                        figure=go.Figure(
-                            data=[
-                                go.Bar(
-                                    x=["Clase 1", "Clase 2", "Clase 3"],
-                                    y=[10, 6, 13],
-                                    marker_color=["gold", "darkorange", "firebrick"],
-                                )
-                            ],
-                            layout=go.Layout(
-                                title="Primer gráfico de prueba",
-                                xaxis_title="Clases",
-                                yaxis_title="Elementos",
-                                width=600,
-                                height=600
-                            )
-                        ),
-                        id="figura-1",
-                        style={
-                            "display": "inline-block",  # Diferenciar entre block, inline-block , inline
-                        }
-                    ),
-                    dcc.Graph(
-                        figure=go.Figure(
-                            data=[
-                                go.Bar(
-                                    x=["Clase 1", "Clase 2", "Clase 3"],
-                                    y=[10, 6, 13],
-                                    marker_color=["gold", "darkorange", "firebrick"],
-                                )
-                            ],
-                            layout=go.Layout(
-                                title="Otro gráfico de prueba",
-                                xaxis_title="Clases",
-                                yaxis_title="Elementos",
-                                width=600,
-                                height=600
-                            )
-                        ),
-                        id="figura-2",
-                        style={
-                            "display": "inline-block",  # Diferenciar entre block, inline-block , inline
-                        }
-                    ),
-                ],
-                id="tercera_fila",
-            ),
-            html.Div(  # Cuarta fila
-                children=[
-                    dcc.Graph(
-                        figure=go.Figure(
-                            data=[
-                                go.Histogram(
-                                    x=np.random.normal(size=1000),
-                                    marker_color="steelblue",
-                                    name="Histograma",
-                                    histnorm="probability"
-                                ),
-                            ],
-                            layout=go.Layout(
-                                title="Histograma de valores",
-                                xaxis_title="Valores de una normal de media 0 y std 1",
-                                width=600,
-                                height=600,
-                                bargap=0.1
-                            )
-                        ),
-                        id="figura-3",
-                        style={
-                            "display": "inline-block",
-                        }
-                    ),
+    return html.Div(
+    children=[
+        # First Row
+        html.Div(
+            children=[
+                html.H1("Vive tu Teatro", id="titulo-teatro", className="text-center"),
+            ],
+            className="row mb-4",
+        ),
 
-                    dcc.Graph(
-                        figure=go.Figure(
-                            data=[
-                                go.Histogram(
-                                    x=np.random.gamma(shape=1 / 2, scale=1 / 2, size=1000),
-                                    marker_color="indigo",
-                                    name="Histograma",
-                                    histnorm="probability"
-                                ),
-                            ],
-                            layout=go.Layout(
-                                title="Histograma de valores",
-                                xaxis_title="Valores de una gamma",
-                                width=600,
-                                height=600,
-                                bargap=0.1
-                            )
+        # Second Row
+        html.Div(
+            children=[
+                # First Column
+                html.Div(
+                    children=[
+                        dcc.Graph(
+                            figure=fig_1,
+                            id="figura-1"
                         ),
-                        id="figura-4",
-                        style={
-                            "display": "inline-block"
-                        }
-                    ),
-                ],
-                id="cuarta_fila",
-            ),
-            html.Div(  # Quinta Fila - Contacto
-                children=[
-                    html.H2(
-                        children=["Contactanos en este correo para saber más:"],
-                        id="titulo_contacto",
-                        style={
-                            'text-align': 'center',  # Center-align the text
-                            'margin': '20px',  # Add some margin for spacing
-                            'font-family': 'Arial, sans-serif',  # Choose a clean sans-serif font
-                            'color': '#333',  # Set text color to a dark shade
-                            'background-color': '#f8f8f8',  # Set a light background color
-                            'padding': '15px',  # Add padding for better readability
-                            'border-radius': '10px',  # Round the corners of the container
-                            'box-shadow': '0 0 10px rgba(0, 0, 0, 0.1)'  # Add a subtle box shadow
-                        }
-                    ),
-                ],
-                id="quinta_fila"
-            ),
-            html.Div(  # Sexta fila - Correo
-                children=[
-                    html.P(
-                        children=["contacto.mipaginadash@gmail.com"],
-                        id="correo_contacto",
-                        style={
-                            'text-align': 'center',  # Center-align the text
-                            'margin': '20px',  # Add some margin for spacing
-                            'font-family': 'Arial, sans-serif',  # Choose a clean sans-serif font
-                            'color': '#333',  # Set text color to a dark shade
-                            'background-color': '#f8f8f8',  # Set a light background color
-                            'padding': '15px',  # Add padding for better readability
-                            'border-radius': '10px',  # Round the corners of the container
-                            'box-shadow': '0 0 10px rgba(0, 0, 0, 0.1)'  # Add a subtle box shadow
-                        }
-                    )
-                ],
-                id="sexta_fila"
-            )
+                    ],
+                    className="col-md-5 mb-2",
+                ),
 
-        ],
-        id="primera_fila",
-        style={
-            "margin-right": "125px",
-            "margin-left": "125px",
-            "margin-top": "100px",
-            "border-style": "groove",
-        }
-    )
+                # Add space between graphs
+                html.Div(className="col-md-2"),
+
+
+                # Second Column
+                html.Div(
+                    children=[
+                        dcc.Graph(
+                            figure= fig_2,
+                            id="figura-2"
+                        ),
+                    ],
+                    className="col-md-5 mb-2",
+                ),
+            ],
+            className="row",
+        ),
+    ],
+    id="primera_fila",
+    className="container",
+)
+
 

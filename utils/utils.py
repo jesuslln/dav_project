@@ -65,3 +65,47 @@ def get_containers_data(play_containers, excel_file_path='plays_data_2023_actual
 
     print(plays)
     save_plays_to_excel(plays, excel_file_path)
+
+
+
+def obras_change_date_format(obras):
+    # Split "Fechas" column into two columns
+    obras[['Fecha_inicio_raw', 'Fecha_final_raw']] = obras['Fechas'].str.split('-', expand=True)
+
+    # Strip any leading or trailing whitespaces
+    obras['Fecha_inicio_raw'] = obras['Fecha_inicio_raw'].str.strip()
+    obras['Fecha_final_raw'] = obras['Fecha_final_raw'].str.strip()
+
+    # Map Spanish month names to their corresponding numerical values
+    spanish_month_names = {
+        'ENE': '01', 'FEB': '02', 'MAR': '03', 'ABR': '04',
+        'MAY': '05', 'JUN': '06', 'JUL': '07', 'AGO': '08',
+        'SEP': '09', 'OCT': '10', 'NOV': '11', 'DIC': '12'
+    }
+
+    # Extract day, month, and year from "Fecha_inicio_raw"
+    obras[['Dia_inicio', 'Mes_inicio']] = obras['Fecha_inicio_raw'].str.split(' ', expand=True)
+    obras['Mes_inicio'] = obras['Mes_inicio'].map(spanish_month_names)
+    obras['Fecha_inicio'] = obras['Ano_inicio'].astype(str) + '/' + obras['Mes_inicio'] + '/' + obras['Dia_inicio']
+
+    # Extract day, month, and year from "Fecha_final_raw"
+    obras[['Dia_final', 'Mes_final']] = obras['Fecha_final_raw'].str.split(' ', expand=True)
+    obras['Mes_final'] = obras['Mes_final'].map(spanish_month_names)
+    obras['Fecha_final'] = obras['Ano_inicio'].astype(str) + '/' + obras['Mes_final'] + '/' + obras['Dia_final']
+
+    # Convert "Fecha_inicio" and "Fecha_final" to datetime format
+    obras['Fecha_inicio'] = pd.to_datetime(obras['Fecha_inicio'])
+    obras['Fecha_final'] = pd.to_datetime(obras['Fecha_final'])
+
+    # Handle cases where the play spans across the year boundary
+    obras.loc[obras['Fecha_final'] < obras['Fecha_inicio'], 'Ano_inicio'] += 1
+
+    # Recalculate "Fecha_final" after adjusting the year
+    obras['Fecha_final'] = obras['Ano_inicio'].astype(str) + '/' + obras['Mes_final'] + '/' + obras['Dia_final']
+
+    # Convert "Fecha_final" to datetime format
+    obras['Fecha_final'] = pd.to_datetime(obras['Fecha_final'])
+
+    # Drop unnecessary columns
+    obras = obras.drop(['Fechas', 'Ano_inicio', 'Fecha_inicio_raw', 'Fecha_final_raw', 'Dia_inicio', 'Mes_inicio', 'Dia_final', 'Mes_final'], axis=1)
+    return obras

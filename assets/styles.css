@@ -55,44 +55,6 @@ body {
     margin-top: 50px;
 }
 
-.heading-left {
-    /* display: inline-block; */
-    /* margin-right: 500px;
-    margin-left: 50px; */
-    /* margin-top: 50px; */
-}
-
-.heading-right {
-    /* display: inline-block; */
-    /* margin-right: 50px;
-    margin-left: 500px; */
-    /* margin-top: 50px; */
-}
-
-/* 
-.home-list {
-    display: inline-block;
-}  */
-
-/* .home-list {
-    display: inline-block;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    margin-top: 25px;
-    margin-bottom: 50px;
-} */
-/* 
-.home-list-left {
-    margin-left: 50px;
-    margin-right: 400px;
-
-}
-
-.home-list-right {
-    margin-right: 50px;
-    margin-left: 400px;
-} */
 
 /* Search Tab  */
 #search-input {
@@ -101,4 +63,37 @@ body {
     margin-right: 100px;
     margin-left: 50px;
     margin-top: 50px;
+}
+
+
+
+
+#titulo-teatro {
+    text-align: center;
+    font-family: Arial;
+    text-decoration: underline;
+}
+
+
+#titulo_contacto {
+    text-align: center;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+#correo_contacto {
+    text-align: center;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }

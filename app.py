@@ -3,9 +3,9 @@ import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
 
-from tab_home import goto_tab_home
 from tab_search import goto_tab_search
 from tab_theatre import goto_tab_theatre
+from tab_cdn import goto_tab_cnd
 
 
 # External CSS stylesheets
@@ -28,11 +28,11 @@ app.layout = html.Div([
         children=[
             dcc.Tabs(
                 id='tabs',
-                value='tab-home',
+                value='tab-theatre',
                 children=[
-                    dcc.Tab(label='Home', value='tab-home', id="tab-home"),
-                    dcc.Tab(label='Search', value='tab-search'),
                     dcc.Tab(label='Your Theatre', value='tab-theatre'),
+                    dcc.Tab(label='Search', value='tab-search'),
+                    dcc.Tab(label='CDN Info', value='tab-cdn', id="tab-cdn"),
                 ],
             ),
         ],
@@ -47,8 +47,8 @@ app.layout = html.Div([
 @app.callback(Output('tabs-content', 'children'),
               [Input('tabs', 'value')])
 def update_tab_content(selected_tab):
-    if selected_tab == 'tab-home':
-        return goto_tab_home()
+    if selected_tab == 'tab-cdn':
+        return goto_tab_cnd()
 
     elif selected_tab == 'tab-search':
         return goto_tab_search()
